@@ -1,0 +1,555 @@
+  500  git status
+  501  git push
+  502  git status
+  503  git add -A
+  504  git commit -m "fixed unexpected EOF while parsing, save csv function still not working"
+  505  conda activate dev
+  506  python app.ipynb
+  507  ls
+  508  cd starter_code-2
+  509  ls
+  510  cd loan_qualifier_app
+  511  ls
+  512  python app.ipynb
+  513  python app.py
+  514  git status
+  515  git add -A
+  516  git status
+  517  git commit -m "fixed save csv function in utils folder and updated app.py file with most recent code"
+  518  git push
+  519  git status
+  520  git add -A
+  521  git commit -m "updated user dialog in save qualifying loans function"
+  522  git push
+  523  git status
+  524  git add -A
+  525  git commit -m "updated save qualifying loans function"
+  526  git push
+  527  python app.py
+  528  python app.py
+  529  git status
+  530  git add -A
+  531  git commit -m "fixed error in save qualifying loans function"
+  532  git push
+  533  python app.py
+  534  git status
+  535  git add -A
+  536  git commit -m "fixed error in save qualifying loans function"
+  537  git push
+  538  python app.py
+  539  python app.py
+  540  git status
+  541  git commit -m "added header variable for save csv function and repaired an error in save qualifying loans function"
+  542  git add -A
+  543  git status
+  544  git commit -m "added header variable for save csv function and repaired an error in save qualifying loans function"
+  545  git push
+  546  git status
+  547  git add -A
+  548  git commit -m "updated app.ipynb file to reflect changes to app.py file"
+  549  git push
+  550  conda activate dev
+  551  pip install pathlib
+  552  pip install fire
+  553  pip install questionary
+  554  ls
+  555  mkdir images
+  556  python app.py
+  557  ls
+  558  cd Starter_code-2
+  559  ps
+  560  ls
+  561  cd loan_qualifier_app
+  562  ls
+  563  python app.py
+  564  python app.py
+  565  git status
+  566  git add READme.md
+  567  git status
+  568  git add ../../images/
+  569  git status
+  570  git add README.md
+  571  git status
+  572  git commit -m "modified README file and added related images folder"
+  573  git status
+  574  git add -A
+  575  git status
+  576  git commit -m "added the CSV file created from a test run of the app.py file"
+  577  git push
+  578  cd ../..
+  579  cd ../..
+  580  cd ..
+  581  cd fintech-workspace
+  582  cd Module_2_challenge
+  583  cd Module_2_Challenge
+  584  ls
+  585  cd fintech-challenges
+  586  ls
+  587  cd Module_2_Challenge
+  588  ls
+  589  cd images
+  590  ls
+  591  pwd
+  592  git status
+  593  git add -A
+  594  git status
+  595  git commit -m "updated readme to correct image error"
+  596  git oush
+  597  git oush
+  598  git push
+  599  git status
+  600  git add -A
+  601  git commit -m "edited readme image formatting"
+  602  git push
+  603  cd ../..
+  604  cd ..
+  605  history 50 > terminal_history.txt
+  606  git status
+  607  git add -A
+  608  git status
+  609  git commit -m "added command history and finalized project"
+  610  git push
+  611  git status
+  612  git add -A
+  613  git status
+  614  git commit -m "moved terminal history file to the primary folder"
+  615  git push
+  616  git status
+  617  git add -A
+  618  git status
+  619  git commit -m "removed ipynb workspace"
+  620  git push
+  621  ls
+  622  git status
+  623  git add -A
+  624  git status
+  625  git commit -m "updated primary ipynb file"
+  626  git push
+  627  git status
+  628  get add -A
+  629  git add -A
+  630  git status
+  631  git commit -m "finalized cryptocurrency arbitrage spread application"
+  632  git push
+  633  git status
+  634  git add -A
+  635  git status
+  636  git commit -m "updated ipynb file formatting'\n\n"
+  637  git status
+  638  git push
+  639  git status
+  640  git add -A
+  641  git commit -m "added readme file for crypto arbitrage and related image folder"
+  642  git push
+  643  git status
+  644  git add -A
+  645  git status
+  646  git commit -m "updated readme file"
+  647  git push
+  648  git status
+  649  git add -A
+  650  git commit -m "updated readme file and finalized crypto_arbitrage.ipynb"
+  651  git push
+  652  ls
+  653  cd Module_3_Challenge
+  654  history 50 > terminal_history.txt
+  655  cd ..
+  656  git status
+  657  git add -A
+  658  git status
+  659  git commit -m "added terminal history text file"
+  660  git push
+  661  git status
+  662  git add -A
+  663  git commit -m "updated readme"
+  664  git push
+  665  git status
+  666  git add -A
+  667  git status
+  668  git commit -m "updated readme and calculated stock beta"
+  669  git status
+  670  git add -A
+  671  git commit -m "calculated sharpe ration and cumulative returns"
+  672  git push
+  673  pip install alpaca_trade_api
+  674  conda activate dev
+  675  pip install alpaca_trade_api
+  676  pip install MCForecastTools
+  677  pip install dotenv
+  678  pip install dotenv
+  679  pip install python-dotenv
+  680  cd ..
+  681  git pull
+  682  conda deactivate
+  683  git status
+  684  git add -A
+  685  git status
+  686  git commit -m "finalized portfolio analysis file"
+  687  git push
+  688  mkdir images
+  689  git status
+  690  git add Primary/risk_return_analysis.ipynb
+  691  git status
+  692  git commit -m "finalized ipynb file"
+  693  git status
+  694  git add -A
+  695  git status
+  696  git commit -m "updated readme and added images file"
+  697  git push
+  698  git status
+  699  git add -A
+  700  git commit -m "ran ipynb"
+  701  git push
+  702  git status
+  703  git add -A
+  704  git status
+  705  git commit -m "fixed image issue in readme"
+  706  git push
+  707  history 870 > terminal_history.txt
+  708  git status
+  709  git add -A
+  710  git commit -m "added terminal history text file"
+  711  git push
+  712  cd ..
+  713  cd desktop
+  714  cd fintech-workspace
+  715  conda activate dev
+  716  conda install -c pyviz hvplot geoviews
+  717  conda list hvplot
+  718  conda list geoviews
+  719  ls
+  720  cd class_folder
+  721  git pull
+  722  git status
+  723  git add -A
+  724  git status
+  725  git commit -m "saved class work"
+  726  git pull
+  727  git config pull.rebase fales
+  728  git config pull.rebase false
+  729  git pull
+  730  cd financial_planning_with_apis
+  731  git status
+  732  git status
+  733  git status
+  734  git add -A
+  735  git commit -m "updated gitignore and dotenv file"
+  736  git status
+  737  git add -A
+  738  git commit -m "added crypto calcs to ipynb file"
+  739  git status
+  740  git add -A
+  741  git commit -m "saving progress on portfolio analysis"
+  742  git status
+  743  git add -A
+  744  git commit -m "saved progress on ipynb file"
+  745  git status
+  746  git add -A
+  747  git status
+  748  git commit -m "updated README file"
+  749  history > 923 terminal_history.txt
+  750  history 923 > terminal_history.txt
+  751  git status
+  752  git add -A
+  753  git commit -m "added terminal histroy text file"
+  754  git push
+  755  git staus
+  756  git status
+  757  git add -A
+  758  git commit -m "finalized ipynb file"
+  759  git push
+  760  git status
+  761  git add -A
+  762  git commit -m "answered final question"
+  763  git push
+  764  cd class_folder
+  765  git pull
+  766  ls
+  767  cd PropTech_San_Fran
+  768  git status
+  769  git add -A
+  770  git commit -m "completed steps 1-5"
+  771  git status
+  772  git add -A
+  773  git commit -m "edited hvplot histogram"
+  774  git push
+  775  git status
+  776  git add san_francisco_housing.ipynb
+  777  git status
+  778  git commit -m "updated ipynb file with data viz"
+  779  git status
+  780  git add -A
+  781  git commit -m "added images to Image folder for readme file"
+  782  git status
+  783  git add Images/clone.png\n        Images/sfintro.png
+  784  git add Images/sfintro.png
+  785  git status
+  786  git commit -m "updated Images folder"
+  787  git status
+  788  git add -A
+  789  git commit -m "updated readme file"
+  790  git status
+  791  git add -A
+  792  git commit -m "answered final questions"
+  793  history 900 > terminal_history.txt
+  794  git status
+  795  git add -A
+  796  git commit -m "added terminal history text file"
+  797  git push
+  798  git status
+  799  git status
+  800  git add -A
+  801  git commit -m "finalized analysis in ipynb file"
+  802  git push
+  803  ls
+  804  cd Diversifying_Stock_Portfolio
+  805  git status
+  806  git add -A
+  807  git commit -m "updated API call dates"
+  808  git status
+  809  git add -A
+  810  git commit -m "calculated mean cumulative returns for each stock"
+  811  git status
+  812  git add -A
+  813  git commit -m "completed MC simulation"
+  814  git status
+  815  git add -A
+  816  git commit -m "encountered problem with sim, saving progress"
+  817  cd..
+  818  cd ..
+  819  git clone https://github.com/shresthab94/NYC-PropTech-Prices.git
+  820  ls
+  821  cd NYC-PropTech-Prices 
+  822  git pull
+  823  git checkout -b [Test}
+  824  git checkout -b [Test]
+  825  git checkout -b Test
+  826  mkdir hi.txt
+  827  git status
+  828  git status
+  829  git push -u origin Test
+  830  git push -u origin Test
+  831  git push -u origin Test
+  832  git push -u origin Test
+  833  git status
+  834  mkdir test.txt
+  835  git status
+  836  git add -A
+  837  git commit -m "TEST"
+  838  git push
+  839  git push --set-upstream origin main
+  840  cd ..
+  841  ls
+  842  cd Diversifying_Stock_Portfolio 
+  843  git status
+  844  git add -A
+  845  git commit -m "fixed problem with seaborn heatmap"
+  846  ls
+  847  cd Diversifying_Stock_Portfolio 
+  848  git status
+  849  git add -A
+  850  git commit -m "fixed MC simulation"
+  851  git push
+  852  git status
+  853  git add -A
+  854  git commit -m "finalized summary calcs"
+  855  git push
+  856  git status
+  857  git add -A
+  858  git commit -m "fixed weighting in sim"
+  859  git push
+  860  git status
+  861  git add -A
+  862  git commit -m "changed portfolio weighting"
+  863  git push
+  864  git status
+  865  git add -A
+  866  git commit -m "updated timeframe"
+  867  git push
+  868  git status
+  869  git add -A
+  870  git commit -m "update MC weighting"
+  871  git push
+  872  ls
+  873  cd ETF_Analyzer
+  874  git status
+  875  git add -A
+  876  git status
+  877  git commit -m "added analysis of PYPL"
+  878  git status
+  879  git add -A
+  880  git status
+  881  git commit -m "analyzed portfolio returns"
+  882  git status
+  883  git add -A
+  884  git commit -m "fixed joining statement"
+  885  git status
+  886  git add -A
+  887  git commit -m "fixed visualization"
+  888  git status
+  889  git add -A
+  890  git commit -m "fixed calcs"
+  891  git status
+  892  git add -A
+  893  git commit -m "modified ipynb file and addes images for readme"
+  894  cd etf_analyzer
+  895  git status
+  896  git add -A
+  897  git status
+  898  git commit -m "added readme"
+  899  git push
+  900  git status
+  901  git add -A
+  902  git status
+  903  git status
+  904  git add -A
+  905  git status
+  906  rm .DS_Store
+  907  git status
+  908  rm NYC-PropTech-Final/.DS_Store
+  909  git status
+  910  git add -A
+  911  git status
+  912  git commit -m "edited readme"
+  913  git push
+  914  conda activate dex
+  915  conda activate dev
+  916  pip install python-dotenv install fbprophet
+  917  conda install -c anaconda ephem
+  918  conda install -c conda-forge pystan
+  919  conda install -c conda-forge fbprophet
+  920  conda list pystan
+  921  pip install --upgrade pystan
+  922  conda list pystan
+  923  cd ..
+  924  conda install -c conda-forge imbalanced-learn
+  925  conda list imbalanced-learn
+  926  conda list pystan
+  927  conda install -c conda-forge pydotplus
+  928  conda list pydotplus
+  929  cd desktop
+  930  cd fintech-workspace
+  931  cd class_folder
+  932  git pull
+  933  cd ..
+  934  git clone git@github.com:mbf2139/Investment_Analysis_ML.git
+  935  cd Investment_Analysis_ML
+  936  ls
+  937  cd gitignore
+  938  open .
+  939  git status
+  940  git add -A
+  941  git status
+  942  git commit -m "updated gitignore file"
+  943  git status
+  944  git add -A
+  945  git staus
+  946  git status
+  947  git commit -m "Added starter files"
+  948  git status
+  949  git add -A
+  950  git status
+  951  git commit -m "saveing progress on data cleaning"
+  952  git status
+  953  git add -A
+  954  git status
+  955  git commit -m "saving k4 model'\n"
+  956  git status
+  957  git stats=us
+  958  git status
+  959  git add - A
+  960  git add -A
+  961  git status
+  962  git commit -m "saving PCA optimal clusters and k"
+  963  git status
+  964  git add -A
+  965  git status
+  966  git commit -m "saving PCA clusters and optimal k"
+  967  git status
+  968  git status
+  969  git add -A
+  970  git status
+  971  git commit -m "saving PCA scatter plot"
+  972  git status
+  973  git add -A
+  974  git status
+  975  git commit -m "saving composite plots and final analysis"
+  976  git status
+  977  list conda
+  978  git status
+  979  git add -A
+  980  git status
+  981  git commit -m "added images folder and updated readme"
+  982  history 1100 > terminal_history.txt
+  983  history 950 > terminal_history.txt
+  984  git status
+  985  git add -A
+  986  git status
+  987  git commit -m "added terminal history txt file"
+  988  git status
+  989  git add -A
+  990  git status
+  991  git commit -m "modified readme"
+  992  git status
+  993  git push
+  994  conda activate dev
+  995  pip install --upgrade tensorflow
+  996  python -c "import tensorflow as tf;print(tf.__version__)"
+  997  cd ..
+  998  cd class_folder
+  999  git pull
+ 1000  conda list tensorflow
+ 1001  cd desktop
+ 1002  cd fintech-workspace
+ 1003  git clone git@github.com:mbf2139/E-Comm_ML.git
+ 1004  cd e-comm_ml
+ 1005  open .
+ 1006  git status
+ 1007  git add -A
+ 1008  git status
+ 1009  git commit -m "updated gitignore and added starter files"
+ 1010  git push
+ 1011  git status
+ 1012  git status
+ 1013  cd ..
+ 1014  cd class_folder
+ 1015  git pull
+ 1016  cd ..
+ 1017  cd e-comm_ml
+ 1018  conda activate dev
+ 1019  git pull
+ 1020  git status
+ 1021  git add -A
+ 1022  git status
+ 1023  git commit -m "updated readme and added corresponding images folder"
+ 1024  voila forecasting_net_prophet.ipynb
+ 1025  history 1050 > terminal_history.txt
+ 1026  history 950 > terminal_history.txt
+ 1027  git status
+ 1028  git add -A
+ 1029  git status
+ 1030  git commit -m "added terminal history txt file"
+ 1031  git push
+ 1032  git pull
+ 1033  git status
+ 1034  git merge --abort
+ 1035  git status
+ 1036  git push
+ 1037  git pull
+ 1038  git config pull.rebase false
+ 1039  git pull
+ 1040  git status
+ 1041  git add -A
+ 1042  git commit -m "removed merge conflicts"
+ 1043  git push
+ 1044  git pull
+ 1045  cd ..
+ 1046  cd class_folder
+ 1047  git pull
+ 1048  cd ..
+ 1049  git clone
+ 1050  git clone git@github.com:davepoppins5073/Proj_Auto_Trading_Bot.git
+ 1051  ls
+ 1052  cd proj_auto_trading_bot
+ 1053  ls
+ 1054  git checkout -b "matt-branch"
