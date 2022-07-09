@@ -20,7 +20,14 @@ The application is designed to use SVM(Service Vector Machine) and LSTM (Long Sh
 ## Installation Guide
 
 First, install the following libraries and functions into our development environment:
-(1) hvplot, (2) Matplotlib, (3)Keras, (4) yfinance, (5) Plotly, (6) seaborn, (7) panda_datareaders , (8) Tensorflow
+1. hvplot
+2. Matplotlib
+3. Keras
+4. yfinance
+5. Plotly
+6. seaborn
+7. panda_datareaders
+8. Tensorflow
 
 Before running the program make sure to install the following dependencies:
 
@@ -67,14 +74,16 @@ This project leverages python 3.7 with the following libraries and dependencies:
 4. Next the program will calculate the Sharpe and Sortino ratios of the stocks in that sector in order to assist the user in selecting the asset with the best risk/return ratio
 5. Finally, once the stock has been selected, the user will set a desired timeframe and the program will pull in the necessary data for the subsequent analysis
 
+![Sortino ratios](./images/sortinoratios.png)
+
 ### **Using SVM model for Predictions**
 
 
-![Real estate prices](./images/realestatehistoricalprices.png)
+![Classification report](./images/classificationreport.png)
 
 (2) Calculated the correlation among real estate prices in NY, LA, and national mortgage rates.
 
-![Correlation](/images/correlation.png)
+![SVM returns](/images/svmreturns.png)
 
 ### **Using LSTM model for Predictions**
 
