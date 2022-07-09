@@ -68,19 +68,16 @@ First, the user can pick the sector and stock using the Sharpe and Sortino ratio
 
 (2) Calculated the correlation among real estate prices in NY, LA, and national mortgage rates.
 
-![Correlation](./images/correlation.png)
+![Correlation](/images/correlation.png)
 
-### **Monte Carlo Forecast of Future Real Estate Prices**
+### **Using LSTM model for Predictions**
 
 For this part of the assignment, we attempted to forecast the median prices for real estate prices in NY and LA. 
 
 (1) Ran a monte carlo simulation for real estate prices in LA.
 
-![Monte Carlo NY](./images/montecarlola.png)
+![LSTM predictions](./images/streamlitpic.png)
 
-(2) Ran a monte carlo simulation real estate prices in NY.
-
-![Monte Carlo LA](./images/montecarlony.png)
 
 ### **Conclusions**
 
