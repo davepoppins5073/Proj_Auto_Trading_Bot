@@ -81,41 +81,22 @@ This project leverages python 3.7 with the following libraries and dependencies:
 
 ![Classification report](./images/classificationreport.png)
 
-(2) Calculated the correlation among real estate prices in NY, LA, and national mortgage rates.
 
 ![SVM returns](/images/svmreturns.png)
 
 ### **Using LSTM model for Predictions**
 
-For this part of the assignment, we attempted to forecast the median prices for real estate prices in NY and LA. 
-
-(1) Ran a monte carlo simulation for real estate prices in LA.
 
 ![LSTM predictions](./images/streamlitpic.png)
 
 
 ### **Conclusions**
 
-Based on our analysis, we came to the following conclusions:
-
-(A) LA real estate prices are increasing at a higher rate than NY (Queens County) real estate prices.
-
-(B) Real estate prices are inversely correlated with mortgage rates.
-
-(C) Invest in real estate because returns are extremely positive.
-       
-       There is a 95% chance that the LA median home value over the next thirty years will be within the range of $4,990,809.80 and $8,224,836.22.
-
-       There is a 95% chance that the NY median home value over the next thirty years will be within the range of $1,901,451.6 and $2,323,568.72.
-
-       If we invest $500K in LA real estate now, we predict a 1215.7% return on investment in 30 years.
-
-       If we invest $500k in NY (Queens County) real estate now, we predict a 318.6% return on investment in 30 years.
 
 ---
 ## Contributors
 
-Brought to you by Winnie Mei, Babin Shrestha, Matthew Field, Feier Ou, and Wilson Rosa 
+Brought to you by Babin Shrestha, David Paquiot, Matthew Field, Feier Ou, and Winnie Mei 
 
 ---
 ## License
