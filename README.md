@@ -56,10 +56,16 @@ This project leverages python 3.7 with the following libraries and dependencies:
 
 ### **Money Machine Analysis**
 
+### **Flow Chart**
+![Flow chart](/images/chartflow.png)
 
 ### **Sector Analysis and Stock Selection**
 
-First, the user can pick the sector and stock using the Sharpe and Sortino ratios.
+1. The first function of the program is to call market data from y finance
+2. Next the user will select a market sector to focus their analysis on
+3. The program will return a list of all securities in the chosen sector
+4. Next the program will calculate the Sharpe and Sortino ratios of the stocks in that sector in order to assist the user in selecting the asset with the best risk/return ratio
+5. Finally, once the stock has been selected, the user will set a desired timeframe and the program will pull in the necessary data for the subsequent analysis
 
 ### **Using SVM model for Predictions**
 
