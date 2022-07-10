@@ -87,6 +87,10 @@ This project leverages python 3.7 with the following libraries and dependencies:
 
 ![SVM returns](/images/svmreturns.png)
 
+The precision is around the same for the 1/-1 classes (buy/sell signals). Recall is 0.80 - 0.86 for predicting -1 class for both the training and testing set. The model is better at predicting when to sell.
+
+The SVM model made trading decisions that underperformed the actual returns.
+
 ### **Using LSTM model for Predictions**
 1. The second ML model is the Long-Short Term Model (LSTM)
 2. Once again the model will be fitted to the train data and tested against the test data
