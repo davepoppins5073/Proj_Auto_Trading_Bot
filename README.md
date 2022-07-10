@@ -77,7 +77,10 @@ This project leverages python 3.7 with the following libraries and dependencies:
 ![Sortino ratios](./images/sortinoratios.png)
 
 ### **Using SVM model for Predictions**
-
+1. The first ML model that the program will run is the Support Vector Model (SVM)
+2. The data will be split into test and train sets and the user will be asked to select number of epoch/batch size
+3. The model will then be trained to the training dataset and then tested against the test set
+4. The program will return the calculation report and a graph of the predictions vs. the actual data
 
 ![Classification report](./images/classificationreport.png)
 
@@ -85,12 +88,19 @@ This project leverages python 3.7 with the following libraries and dependencies:
 ![SVM returns](/images/svmreturns.png)
 
 ### **Using LSTM model for Predictions**
-
+1. The second ML model is the Long-Short Term Model (LSTM)
+2. Once again the model will be fitted to the train data and tested against the test data
+3. The program will return the calculation report and a plot of the predictions overlaid with the actual
+4. The user can then select the model which best meets their criteria
 
 ![LSTM predictions](./images/streamlitpic.png)
 
+### **Streamlit**
+The program also incorporates a web-based UI via Streamlit
+All functions of the program may be run on this webpage for a no code alternative
 
-### **Conclusions**
+### **Analysis**
+In our analysis, we found LSTM to be the superior model for stock trend predictions. This was anticipated as it is a RNN and better equipped for these purposes. With some feature engineering, we were able to mitigate issues with over and undercutting the model and reliably predict PGR pricing trends over the selected timeframe. We are confident that, given additional time and resources, this program could be deployed successfully to assist users in implementing an algorithmic trading strategy.
 
 
 ---
