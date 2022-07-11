@@ -97,6 +97,9 @@ The SVM model made trading decisions that underperformed the actual returns.
 3. The program will return the calculation report and a plot of the predictions overlaid with the actual
 4. The user can then select the model which best meets their criteria
 
+### ** Note on Keras Library and MacBook LapTops**
+Some members ofour team were couldnt access the keras library due to issues with the M1 processor. As a result we had we ketp the lstm code on Google Colab for accessibility purposes. In future iterations of this project we plan to address this by consolidating all ipynb on Google Colab. Note and comments in the Google Colab ipynb  give more context to this issue and how we worked around it.
+
 ![LSTM predictions](./images/streamlitpic.png)
 
 ### **Streamlit**
